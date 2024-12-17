@@ -179,13 +179,13 @@ Comment ::= '<!--' ((Char - '-') | ('-' (Char - '-')))* '-->'
 [[comment_grammer.png]]
 .comment_grammer.png
 --
-image::comment_grammer_screenshot.png[{full-width}]
+image::comment_grammer.png[{full-width}]
 --
 
 [[comment_diagram.png]]
 .comment_diagram.png
 --
-image::comment_diagram_screenshot.png[{full-width}]
+image::comment_diagram.png[{full-width}]
 --
 
 === 演習：breakfast言語の文法をRailroad Diagramで表す
